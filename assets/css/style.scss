@@ -1,6 +1,6 @@
  ---
  ---
 
-@import "{{ minima }}";
-body {background-color: red;}
+@import "{{ site.theme }}";
+body {color: red;}
 
