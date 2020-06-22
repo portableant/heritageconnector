@@ -2,6 +2,11 @@ html {
   font-size: $base-font-size;
 }
 
+    @font-face {
+        font-family: SMGSans;
+        src: url(https://thesciencemuseum.github.io/collection-chrome-extension/SMGSans-Regular.woff) format("woff");
+        font-style: normal;
+
 /**
  * Reset some basic elements
  */
@@ -19,11 +24,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    
-    @font-face {
-        font-family: SMGSans;
-        src: url(https://thesciencemuseum.github.io/collection-chrome-extension/SMGSans-Regular.woff) format("woff");
-        font-style: normal;
+  
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
