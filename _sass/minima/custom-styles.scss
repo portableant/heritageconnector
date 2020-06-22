@@ -1,7 +1,7 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 header.site-header {background-color: black;}
-.site-title, .site-title:visited {color: white; text-transform: uppercase; text-decoration: none; font-size: 2.3em;}
+.site-title, .site-title:visited {color: white; text-transform: uppercase; text-decoration: none; font-size: 2.3em; padding-top: 1em; padding-bottom: 1em;}
 .site-nav {display: none;}
 a, a:visited, a:hover {color: black; text-decoration: underline;}
 .footer-col-wrapper {color: black; font-size: 1em;}
