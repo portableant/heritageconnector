@@ -8,7 +8,7 @@ The Science Museum is hosting a free, public webinar on Wikidata and cultural he
 
 The webinar will draw together a set of short case studies from practitioners who have worked in this field to present their work and the opportunities and challenges as they see them.
 
-##The speakers include:
+## The speakers include:
 
 ### Emma Carroll, Interactive witchcraft map
 The wicked wikidata tale of how the 3141 accused witches were placed on the map for the first time.
