@@ -19,7 +19,11 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    
+    @font-face {
+        font-family: SMGSans;
+        src: url(https://thesciencemuseum.github.io/collection-chrome-extension/SMGSans-Regular.woff) format("woff");
+        font-style: normal;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
