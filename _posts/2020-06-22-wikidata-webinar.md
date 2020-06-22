@@ -10,7 +10,7 @@ The webinar will draw together a set of short case studies from practitioners wh
 
 ##The speakers include:
 
-## Emma Carroll, Interactive witchcraft map
+### Emma Carroll, Interactive witchcraft map
 The wicked wikidata tale of how the 3141 accused witches were placed on the map for the first time.
 
 ### Jason Evans, Llyfrgell Genedlaethol Cymru/National Library of Wales
