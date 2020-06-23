@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Public webinar on Wikidata and cultural heritage collections"
+title: "Webinar: Wikidata and cultural heritage collections"
 categories: events
 ---
 
