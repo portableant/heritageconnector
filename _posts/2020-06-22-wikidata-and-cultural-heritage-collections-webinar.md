@@ -18,7 +18,7 @@ Introduction and [Mentimeter](https://www.mentimeter.com) survey of delegates.
 ### 2. [Shani Evenstein Sigalov](https://wikimediafoundation.org/profile/shani-evenstein-sigalov/), Wikidata as a learning platform
 When GLAM & Education Collide: Exploring the educational potential of Cultural Heritage in Wikidata.
 {% include youtubePlayer.html id="gx3tpOlMo80" %}
-[Presentation slides](https://commons.wikimedia.org/wiki/File:Heritage_Connector_Webinar_-_GLAM,_EDU_and_Wikidata.pdf)
+[Presentation slides CC BY-SA](https://commons.wikimedia.org/wiki/File:Heritage_Connector_Webinar_-_GLAM,_EDU_and_Wikidata.pdf)
 
 ### 3. [Jason Evans](https://en.wikipedia.org/wiki/User:Jason.nlw/National_Wikimedian_at_the_National_Library_of_Wales), Llyfrgell Genedlaethol Cymru/National Library of Wales
 The National Library of Wales has been using Wikidata to explore the benefits of linked open data, from improving access, to data enrichment and round tripping.
@@ -40,12 +40,11 @@ Jane will be discussing some preliminary findings from a literature review explo
 ### 7. [James Morley](http://www.catchingtherain.com), [A Street Near You](https://astreetnearyou.org)
 A Street Near You started as an idea simply to explore and demonstrate the potential of combining and enhancing large datasets focused on the First World War, but ended up seeing nearly a quarter of a million people visit it within the first three days after it launched and continues to develop and attract new audiences.
 {% include youtubePlayer.html id="wx6I1kgebag" %}
+[Presentation slides](https://drive.google.com/file/d/1-EF0QeAlLlM35EILVKuI7tyZWrGS8JUe/view)
 
 ### 8. Navino Evans, [Histropedia](http://histropedia.com)
 Linking UNESCO heritage data with Wikidata so it can be visualised, connected with other data about the world, and provide direct access to all available Wikimedia content.
 {% include youtubePlayer.html id="JNvR6ybdabI" %}
-[Presentation slides](https://drive.google.com/file/d/1-EF0QeAlLlM35EILVKuI7tyZWrGS8JUe/view)
-[A Street Near you – a case study in linking disparate datasets](http://www.catchingtherain.com/2020/06/a-street-near-you-a-case-study-in-linking-disparate-datasets/)
 
 ### 9. [Harrison Pim](https://harrisonpim.github.io), [Wellcome Collection](https://wellcomecollection.org), London
 Wellcome Collection is starting to enrich its data pipelines with Wikidata, LCSH, MeSH, etc, and using an underlying graph of connected works, people, and concepts to improve search and discovery.
