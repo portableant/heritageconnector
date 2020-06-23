@@ -8,7 +8,7 @@ The Science Museum is hosting a free, public webinar on Wikidata and cultural he
 
 The webinar will draw together a set of short case studies from practitioners who have worked in this field to present their work and the opportunities and challenges as they see them.
 
-## The speakers include:
+## Speakers 
 
 ### 1. John Stack, Digital Director, [Science Museum Group](https://sciencemuseumgroup.org.uk)
 Introduction and [Mentimeter](https://www.mentimeter.com) survey of delegates.
