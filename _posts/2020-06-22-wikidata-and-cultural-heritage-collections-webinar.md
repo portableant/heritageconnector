@@ -12,8 +12,8 @@ The webinar will draw together a set of short case studies from practitioners wh
 
 ### 1. John Stack, Digital Director, [Science Museum Group](https://sciencemuseumgroup.org.uk)
 Introduction and [Mentimeter](https://www.mentimeter.com) survey of delegates.
-![Screengrab of Mentimeter](/heritageconnector/post_files/Mentimeter-Screenshot.png)
-[Download full Mentimeter survey (PDF)](/heritageconnector/post_files/Heritage_Connector_Webinar_1_Mentimeter.pdf)
+![Screengrab of Mentimeter](https://thesciencemuseum.github.io/heritageconnector/post_files/Mentimeter-Screenshot.png)
+[Download full Mentimeter survey (PDF)](https://thesciencemuseum.github.io/heritageconnector/post_files/Heritage_Connector_Webinar_1_Mentimeter.pdf)
 
 ### 2. [Shani Evenstein Sigalov](https://wikimediafoundation.org/profile/shani-evenstein-sigalov/), Wikidata as a learning platform
 When GLAM & Education Collide: Exploring the educational potential of Cultural Heritage in Wikidata.
