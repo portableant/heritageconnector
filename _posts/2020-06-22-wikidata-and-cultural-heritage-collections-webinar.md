@@ -24,6 +24,7 @@ The National Library of Wales has been using Wikidata to explore the benefits of
 
 ### 4. Emma Carroll, [Interactive witchcraft map](https://witches.is.ed.ac.uk/) 
 The wicked wikidata tale of how the 3141 accused witches were placed on the map for the first time.
+{% include youtubePlayer.html id="hOldL0NuGUI" %}
 
 ### 5. [Martin Poulter](https://en.wikipedia.org/wiki/User:MartinPoulter), Wikimedia consultant
 Using Wikidata to create and visualise pathways that join up collections within Oxford and beyond.
@@ -31,6 +32,7 @@ Using Wikidata to create and visualise pathways that join up collections within 
 
 ### 6. [Jane Winters](https://research.sas.ac.uk/search/staff/126/dr-jane-winters/), School of Advanced Study, University of London
 Jane will be discussing some preliminary findings from a literature review exploring the use of Linked Open Data by museums, undertaken as part of the Heritage Connector project.
+{% include youtubePlayer.html id="fBtWrhiSxUw" %}
 
 ### 7. [James Morley](http://www.catchingtherain.com), [A Street Near You](https://astreetnearyou.org)
 A Street Near You started as an idea simply to explore and demonstrate the potential of combining and enhancing large datasets focused on the First World War, but ended up seeing nearly a quarter of a million people visit it within the first three days after it launched and continues to develop and attract new audiences.
